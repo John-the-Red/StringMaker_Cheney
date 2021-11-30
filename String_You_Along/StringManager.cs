@@ -83,7 +83,7 @@ namespace StringMaker_Cheney
             valuePairs.Add(48, "Zero");
             valuePairs.Add(49, "One");
             valuePairs.Add(50, "Two");
-            valuePairs.Add(51, "Tree");
+            valuePairs.Add(51, "Three");
             valuePairs.Add(52, "Four");
             valuePairs.Add(53, "Five");
             valuePairs.Add(54, "Six");
